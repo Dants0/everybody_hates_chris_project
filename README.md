@@ -9,7 +9,7 @@ First, run the development server:
 ```bash
 git clone this repository
 
-open the folder in vscode or node prompt
+open the folder with vscode or node prompt
 
 and run
 
